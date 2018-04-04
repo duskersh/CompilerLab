@@ -1,0 +1,2 @@
+while(c){while(c){s1}}
+ THIS IS WHILE LOOP
